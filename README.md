@@ -86,7 +86,7 @@ while providing human escalation for complex enquiries.
 - Test Cases
 - KPIs & Success Criteria
 
-🔗 **[View Project](./AI-Customer-Support-Chatbot-BA)**
+🔗 **[View Project]-https://github.com/shanmugasrinithi-t/AI-powered-Customer-support-Chatbot.git**
 
 ---
 
