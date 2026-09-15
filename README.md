@@ -145,7 +145,7 @@ business needs into structured requirements and process documentation.
 - Edge Case Analysis
 - Process Documentation
 
-🔗 **[View Project](./E-Commerce-Refund-Process-BA)**
+🔗 **[View Project]-https://github.com/shanmugasrinithi-t/E-Commerce-Refund-Process.git**
 
 ---
 
@@ -204,5 +204,4 @@ effective business decisions.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](YOUR-LINKEDIN-LINK-HERE)
 - **Email:** YOUR-EMAIL-HERE
