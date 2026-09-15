@@ -119,7 +119,7 @@ segments, countries and months.
 - Statistical analysis of sales values
 - Business-focused data interpretation
 
-🔗 **[View Project](./Financial-Sales-Data-Analysis)**
+🔗 **[View Project]-https://github.com/shanmugasrinithi-t/Financial-Sales-Analysis.git**
 
 ---
 
