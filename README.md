@@ -39,7 +39,6 @@ system requirements, and support data-driven decision-making.
 - Excel
 - Power BI
 - Data Analysis
-- Descriptive Statistics
 - Business Insights
 - Business Recommendations
 
@@ -204,4 +203,4 @@ effective business decisions.
 
 ## 📫 Connect With Me
 
-- **Email:** YOUR-EMAIL-HERE
+- **Email:** shanmugasrinithi@gmail.com
